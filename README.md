@@ -117,14 +117,3 @@ Some common insights observed from this dataset include:
 4. Open it in a browser or upload to GitHub
 
 ---
-
-## 📸 Screenshots
-
-Add screenshots in a `screenshots/` folder and link them here.
-
-Example:
-
-```markdown
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![Churn Heatmap](screenshots/churn_heatmap.png)
-![Segment Table](screenshots/segment_table.png)
